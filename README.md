@@ -1,1 +1,1 @@
-# CRP
+Implemented a Graph Neural Network surrogate model to approximate the Tracomplex simulation engine for the forging process. This Surrogate model aids in faster parameter search space exploration, as the real simulation engine takes a long duration of time to generate the output mesh. The Project was Guided By Professors at Centrale Supelec and Team member from Transvalor
