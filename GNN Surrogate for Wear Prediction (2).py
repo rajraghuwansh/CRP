@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # ### Graph Neural Network based Surrogate Models for Finite Element Methods for the Forging Process
-# - Shivaditya Meduri
+
 # 
 # Current simulation softwares use finite element method(FEM) to simulate metal forging processes. Finite Element methods consist of solving differential equations which can take a significant
 # amount of time for the simulation to complete. This is problematic when we try to use the simulation engine to find the best set of input parameters for the desired output as the parameter search
